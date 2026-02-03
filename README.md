@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **princekumar.dev26@gmail.com** For Collaboration/Project o
 - 😄 **Pronouns:** Kabir.
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/princ_ebyte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princegoyal259@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/princ_ebyte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princekumar.dev26@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
