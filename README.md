@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **princekumar.dev26@gmail.com** For Collaboration/Project o
 
 - 🔭 **I’m currently working on:**a project using Hyperledger Fabric (permissioned blockchain).
   
--🤔 **I’m looking for help with:**smart contracts and network configuration in Hyperledger Fabric.
+- 🤔 **I’m looking for help with:**smart contracts and network configuration in Hyperledger Fabric.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** princekumar.dev26@gmail.com
 - 😄 **Pronouns:** Kabir.
