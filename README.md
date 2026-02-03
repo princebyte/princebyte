@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'm Prince Kumar
-**Third Year Computer Science Student || DevOps Engineer ||**
+**Third Year Computer Science Student || Full-Stack Development|| Blockchain Enthusiast||**
 
 Email Me 👉 ✉️ **princekumar.dev26@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**AIML Based Learning
--🤔 **I’m looking for help with:** AIML Based Learning 
+- 🔭 **I’m currently working on:**Working on a project using Hyperledger Fabric (permissioned blockchain).
+-🤔 **I’m looking for help with:**smart contracts and network configuration in Hyperledger Fabric.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** princekumar.dev26@gmail.com
-- 😄 **Pronouns:** Kabir Bhai
+- 😄 **Pronouns:** Kabir.
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/princ_ebyte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princegoyal259@gmail.com) 
