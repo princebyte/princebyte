@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **princegoyal259@gmail.com** For Collaboration/Project or A
 - 🔭 **I’m currently working on:**AIML Based Learning
 -🤔 **I’m looking for help with:** AIML Based Learning 
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** princegoyal259@gmail.com
+- 📫 **How to reach me:** princekumar.dev26@gmail.com
 - 😄 **Pronouns:** Kabir Bhai
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
@@ -14,9 +14,9 @@ Email Me 👉 ✉️ **princegoyal259@gmail.com** For Collaboration/Project or A
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 
 # 💻 Tech Stack:
