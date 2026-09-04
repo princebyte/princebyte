@@ -68,7 +68,19 @@ Email Me 👉 ✉️ **princekumar.dev26@gmail.com** For Collaboration/Project o
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
 ---
+
+
+
+## 🧠 Data Structures & Algorithms
+
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-3776AB?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge&logo=leetcode&logoColor=white)
+
+
+---
+
 
 ## 🛠️ Tools
 
