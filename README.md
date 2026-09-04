@@ -75,8 +75,7 @@ Email Me 👉 ✉️ **princekumar.dev26@gmail.com** For Collaboration/Project o
 
 ## 🧠 Data Structures & Algorithms
 
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-3776AB?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge&logo=leetcode&logoColor=white)
+![200+ Problems](https://img.shields.io/badge/200%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
 
 ---
